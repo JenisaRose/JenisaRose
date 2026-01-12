@@ -1,6 +1,7 @@
 # 👋 Hi, I'm a B.Tech CSE (Core) Student
 
-I am a **Bachelor of Technology student in Computer Science & Engineering (Core)** with a strong interest in understanding core computer science concepts and applying them to practical problems. I enjoy learning, building, and continuously improving my technical skills.
+**A motivated B.Tech CSE (Core) student passionate about applying core computer science concepts to real-world problems.**  
+*Always learning, building, and improving.*
 
 ---
 
@@ -30,5 +31,4 @@ I am a **Bachelor of Technology student in Computer Science & Engineering (Core)
 ## 📫 Let’s Connect
 Open to internships, projects, and learning opportunities in software development.
 
----
 
