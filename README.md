@@ -1,6 +1,6 @@
-# 👋 Hi, I'm a B.Tech CSE (Core) Student
+# 👋 Hi, I'm Rohini Pal, a B.Tech CSE Core Student. 
 
-**A motivated B.Tech CSE (Core) student passionate about applying core computer science concepts to real-world problems.**  
+**I am a motivated B.Tech CSE (Core) student passionate about applying core computer science concepts to real-world problems.**  
 *Always learning, building, and improving.*
 
 ---
