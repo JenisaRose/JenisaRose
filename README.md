@@ -1,24 +1,6 @@
 [README.md](https://github.com/user-attachments/files/31302216/README.md)
 
 
-<!--
-====================================================================
-  HOW TO USE THIS FILE
-====================================================================
-1. Create a new GitHub repo with the EXACT same name as your username
-   (e.g. if your username is "rohini-dev", repo name = "rohini-dev").
-   Make it PUBLIC. GitHub will show you a special banner confirming
-   this is your profile README repo.
-2. Put this file in that repo as README.md — it will render on
-   your github.com/your-username page automatically.
-3. Replace every YOUR_USERNAME, YOUR_EMAIL, YOUR_LINKEDIN etc. below
-   (Ctrl+F / Find&Replace makes this fast).
-4. Anywhere you see <!-- EDIT: ... -->, that's a spot meant for you
-   to add/remove rows or icons as your real projects change.
-5. Delete any section you don't want. Nothing here is required.
-====================================================================
--->
-
 <div align="center">
 
 <!-- Animated wave banner — change colors via the hex codes in the URL if you want a different gradient -->
