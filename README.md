@@ -119,7 +119,7 @@ A centralized dashboard that helps teams manage product information, track key m
 
 <img src="https://img.shields.io/badge/LIVE%20SITE-YOUR--LINK--HERE-1f2937?style=for-the-badge"/>
 
-🔗 Repo link: <!-- add your repo link here once it's ready -->
+🔗 Repo link: https://product-dashboard-gamma-azure.vercel.app
 
 </div>
 
@@ -178,7 +178,7 @@ Actively building interview-readiness through consistent, structured practice �
 
 </div>
 
-🔗 [My LeetCode Profile →](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
+🔗 [My LeetCode Profile →]https://leetcode.com/u/HvVNU87CZ0/
 
 > Small daily reps beat last-minute cramming.
 
@@ -230,11 +230,11 @@ Outside of code, I'm into <!-- add your interests here -->.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-B5179E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F97316?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-F72585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-B5179E?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/rohini-pal-37b8a2242
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F97316?style=for-the-badge&logo=leetcode&logoColor=white)]https://leetcode.com/u/HvVNU87CZ0/
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-F72585?style=for-the-badge&logo=gmail&logoColor=white)]rohini.pal009@gmail.com
 [![Resume](https://img.shields.io/badge/Resume-Download-7209B7?style=for-the-badge&logo=googledocs&logoColor=white)](YOUR_RESUME_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-560BAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-560BAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JenisaRose)
 
 </div>
 
