@@ -117,7 +117,7 @@ A centralized dashboard that helps teams manage product information, track key m
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LIVE%20SITE-https://product-dashboard-gamma-azure.vercel.app-1f2937?style=for-the-badge"/>
+🌐 Live Demo: https://product-dashboard-gamma-azure.vercel.app/login
 
 🔗 Repo link: https://github.com/JenisaRose/Product-Dashboard
 </div>
