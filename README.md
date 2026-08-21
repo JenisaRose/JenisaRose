@@ -150,20 +150,19 @@ Web & Full-Stack Development
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JenisaRose&bg_color=0D1117&color=FFFFFF&line=B5179E&point=F72585&area=true&hide_border=true" width="95%"/>
+
+</div>
 
 ## 🐍 Contribution Journey
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/JenisaRose/JenisaRose/output/github-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div> 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JenisaRose&bg_color=0D1117&color=FFFFFF&line=B5179E&point=F72585&area=true&hide_border=true" width="95%"/>
 
 </div>
 
