@@ -219,7 +219,12 @@ Actively building interview-readiness through consistent, structured practice �
 ## 🌸 Life Beyond Code
 
 <!-- EDIT: swap this out for whatever's true for you — hobbies, sport, volunteering, music, whatever you want people to know -->
-Outside of code, I'm into <!-- add your interests here -->.
+Outside of code, I'm into 
+🎸 Music · Guitar
+🎮 Gaming · Anime
+👗 Fashion · College Fashion Club
+🏆 Competitions · Team Events
+✈️ Travel · Exploration
 
 > <!-- add a short personal line or quote here -->
 
