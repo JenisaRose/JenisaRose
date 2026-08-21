@@ -239,13 +239,7 @@ Outside of code, I'm into <!-- add your interests here -->.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-560BAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JenisaRose)
 
-<br><br>
-
-✨ *Build. Break. Learn. Ship. Repeat.* ✨
-
-</div>
-
-<br/>
+<br>
 
 <div align="center">
 <i>✨ Build. Break. Learn. Ship. Repeat. ✨</i>
