@@ -186,9 +186,9 @@ Actively building interview-readiness through consistent, structured practice �
 ## 📜 Certifications
 
 <!-- EDIT: add/remove your own certifications, one bullet each -->
-- 🏅 <!-- Certification name — Issuer -->
-- 🏅 <!-- Certification name — Issuer -->
-- 🏅 <!-- Certification name — Issuer -->
+- 🏅 	Coursera – Data Structures and Algorithms Specialization (UC San Diego): Ongoing specialization covering core DSA concepts and problem-solving in Python.
+- 🏅  UpGrad – Generative AI Foundations (Microsoft): Foundation-level training in generative AI concepts and applications.
+- 🏅  Coursera – Generative AI and LLMs: Architecture & Data Prep (IBM): Training in LLM architecture and data preparation fundamentals.
 
 <br/>
 
