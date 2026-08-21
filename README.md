@@ -229,11 +229,19 @@ Outside of code, I'm into <!-- add your interests here -->.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-B5179E?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/rohini-pal-37b8a2242
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F97316?style=for-the-badge&logo=leetcode&logoColor=white)]https://leetcode.com/u/HvVNU87CZ0/
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-F72585?style=for-the-badge&logo=gmail&logoColor=white)]rohini.pal009@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-B5179E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohini-pal-37b8a2242/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F97316?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HvVNU87CZ0/)
+
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-F72585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohini.pal009@gmail.com)
+
 [![Resume](https://img.shields.io/badge/Resume-Download-7209B7?style=for-the-badge&logo=googledocs&logoColor=white)](YOUR_RESUME_LINK)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-560BAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JenisaRose)
+
+<br><br>
+
+✨ *Build. Break. Learn. Ship. Repeat.* ✨
 
 </div>
 
