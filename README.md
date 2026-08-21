@@ -152,19 +152,20 @@ Web & Full-Stack Development
 
 ## 📊 GitHub Stats
 
+## 🐍 Contribution Journey
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JenisaRose&show_icons=true&hide_border=true&title_color=F72585&icon_color=B5179E&text_color=ffffff&bg_color=0D1117&count_private=true"/>
+<img src="https://raw.githubusercontent.com/JenisaRose/JenisaRose/output/github-snake.svg" alt="GitHub Contribution Snake"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenisaRose&layout=compact&hide_border=true&title_color=F72585&text_color=ffffff&bg_color=0D1117"/>
+</div> 
+## 📊 GitHub Activity
 
-<br/>
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JenisaRose&hide_border=true&background=0D1117&ring=B5179E&fire=F97316&currStreakLabel=F72585"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JenisaRose&bg_color=0D1117&color=FFFFFF&line=B5179E&point=F72585&area=true&hide_border=true" width="95%"/>
 
 </div>
-
-<br/>
 
 ## 🧠 Problem-Solving Journey
 
