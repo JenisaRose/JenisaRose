@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Stat badges row -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=3B82F6&style=flat-square&labelColor=1f2937" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=JenisaRose&label=PROFILE%20VIEWS&color=3B82F6&style=flat-square&labelColor=1f2937" alt="profile views"/>
 <img src="https://img.shields.io/badge/INTERNSHIPS%20DONE-1-22C55E?style=flat-square&labelColor=1f2937" alt="internships done"/>
 <img src="https://img.shields.io/badge/LEETCODE-ACTIVE-F97316?style=flat-square&labelColor=1f2937" alt="leetcode active"/>
 
