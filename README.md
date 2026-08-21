@@ -1,3 +1,17 @@
+<!--
+====================================================================
+  HOW TO USE THIS FILE
+====================================================================
+1. Create a public GitHub repo with the EXACT same name as your
+   username (e.g. username "rohini-pal" -> repo "rohini-pal").
+   GitHub will show a banner confirming it's your profile README repo.
+2. Drop this file in as README.md.
+3. Replace every YOUR_USERNAME, YOUR_EMAIL, YOUR_LINKEDIN,
+   YOUR_LEETCODE_USERNAME, YOUR_RESUME_LINK placeholders.
+4. Anywhere marked <!-- EDIT --> or "# add/remove" is meant for
+   YOU to customize — add, delete, or rewrite freely.
+====================================================================
+-->
 
 <div align="center">
 
@@ -243,129 +257,4 @@ Outside of code, I'm into <!-- add your interests here -->.
 <i>✨ Build. Break. Learn. Ship. Repeat. ✨</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:560BAD,50:B5179E,100:F72585&height=100&section=footer" width="100%"/>io/badge/Status-Actively%20Building-560BAD?style=flat" alt="status"/>
-
-</div>
-
-<br/>
-
-## 💭 About Me
-
-<!-- EDIT: rewrite these bullets to sound like you -->
-- 🎓 3rd-year **B.Tech CSE** student, SRM Institute of Science and Technology (KTR)
-- 🛠️ Building full-stack apps with the **MERN stack**
-- 🧠 Currently deep in a structured **DSA / problem-solving grind** ahead of placements
-- 📊 Recently worked on a **GNN-based stock movement prediction** project for NIFTY equities
-- 🌱 Always looking for internship / collaboration opportunities — reach out!
-
-<br/>
-
-
-## 🚀 Featured Projects
-
-<!--
-  EDIT THIS TABLE: add a row per project, delete the placeholder rows,
-  replace the ### repo links below with your real repo URLs.
-  Emoji on the left is just a visual anchor — swap for whatever fits.
--->
-
-<table>
-<tr>
-<td width="50%">
-
-### 🗂️ Project Name One
-Short one-line description of what it does and why it's interesting.
-
-`React` `Node.js` `MongoDB`
-
-[🔗 Repo](https://github.com/YOUR_USERNAME/repo-one) · [🌐 Live Demo](#)
-
-</td>
-<td width="50%">
-
-### 📈 Project Name Two
-Short one-line description of what it does and why it's interesting.
-
-`Python` `Pandas` `Scikit-learn`
-
-[🔗 Repo](https://github.com/YOUR_USERNAME/repo-two)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧩 Project Name Three
-Short one-line description.
-
-`Java` `MySQL`
-
-[🔗 Repo](https://github.com/YOUR_USERNAME/repo-three)
-
-</td>
-<td width="50%">
-
-### ➕ Add More
-<!-- EDIT: duplicate a <td> block above for each new project -->
-Duplicate one of the blocks on the left and fill in your own project.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<!-- These auto-update — just swap YOUR_USERNAME. Colors match the pink/purple theme. -->
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=F72585&icon_color=B5179E&text_color=ffffff&bg_color=0D1117&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=F72585&text_color=ffffff&bg_color=0D1117"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=B5179E&fire=F72585&currStreakLabel=F72585"/>
-
-</div>
-
-<br/>
-
-## 🧗 DSA / LeetCode Progress
-
-<!-- EDIT: this is a manual progress snapshot — update the numbers as you go, or delete if you'd rather just link your profile -->
-<div align="center">
-
-| Status | Details |
-|---|---|
-| 🎯 Current Goal | Consistent daily solving through placement season |
-| 🗓️ Roadmap | Month-long structured plan (Arrays → Trees/Graphs → DP → Greedy) |
-| 🐍 Primary Language | Python |
-| ☕ Secondary | Java (weekly re-implementation) |
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-View%20Profile-F72585?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
-
-</div>
-
-<br/>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-B5179E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F72585?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-560BAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Resume](https://img.shields.io/badge/Resume-Download-7209B7?style=for-the-badge&logo=googledocs&logoColor=white)](YOUR_RESUME_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-3A0CA3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-</div>
-
-<br/>
-
-<div align="center">
-<i>"Read the problem. Break it down. Ship the solution."</i>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:560BAD,50:B5179E,100:F72585&height=100&section=footer" width="100%"/>
-
