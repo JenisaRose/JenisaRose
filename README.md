@@ -1,17 +1,3 @@
-<!--
-====================================================================
-  HOW TO USE THIS FILE
-====================================================================
-1. Create a public GitHub repo with the EXACT same name as your
-   username (e.g. username "rohini-pal" -> repo "rohini-pal").
-   GitHub will show a banner confirming it's your profile README repo.
-2. Drop this file in as README.md.
-3. Replace every YOUR_USERNAME, YOUR_EMAIL, YOUR_LINKEDIN,
-   YOUR_LEETCODE_USERNAME, YOUR_RESUME_LINK placeholders.
-4. Anywhere marked <!-- EDIT --> or "# add/remove" is meant for
-   YOU to customize — add, delete, or rewrite freely.
-====================================================================
--->
 
 <div align="center">
 
