@@ -36,10 +36,10 @@ currently_building:
   # - add another project here
 looking_for: "Software Engineering / Full-Stack Internship"
 philosophy: >
-  # add a line or two about how you approach building things
+I believe the best way to learn technology is to build with it, break things, understand why they broke, and build better the next time. 
 ```
 
-**Focusing on:** <!-- EDIT: e.g. Data Structures & Algorithms · Full-Stack Development · System Design Basics -->
+**Focusing on:** Full-Stack Development · Backend Engineering · Data Structures & Algorithms · Databases · AI & Emerging Technologies 
 
 <br/>
 
@@ -96,11 +96,11 @@ philosophy: >
 
 <div align="center">
 
-### 📊 Your Project Name Here
+### 📊 Product Dashboard 
 
-**TAGLINE GOES HERE**
+A modern dashboard for managing products, data, and business insights. 
 
-A short one-to-two line description of what the project does and the problem it solves.
+A centralized dashboard that helps teams manage product information, track key metrics, and monitor operations in one place. It reduces manual data handling and makes product-related insights easier to access and act on 
 
 <img src="https://img.shields.io/badge/React-560BAD?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-F72585?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -111,8 +111,8 @@ A short one-to-two line description of what the project does and the problem it 
 
 | Feature | Feature | Feature |
 |---|---|---|
-| 📋 Add a feature | 🔐 Add a feature | 📈 Add a feature |
-| ⚙️ Add a feature | 🧩 Add a feature | 🗂️ Add a feature |
+| 📊 Dashboard & Insights| 📦 Product Management | 🔍 Search & Filtering |
+| 🗂️ Data Organization | 📈 Analytics & Tracking | 📱 Responsive UI|
 <!-- EDIT: add/remove table rows for each module or feature of the project -->
 
 <div align="center">
@@ -154,12 +154,13 @@ Web & Full-Stack Development
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=F72585&icon_color=B5179E&text_color=ffffff&bg_color=0D1117&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=F72585&text_color=ffffff&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JenisaRose&show_icons=true&hide_border=true&title_color=F72585&icon_color=B5179E&text_color=ffffff&bg_color=0D1117&count_private=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenisaRose&layout=compact&hide_border=true&title_color=F72585&text_color=ffffff&bg_color=0D1117"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=B5179E&fire=F97316&currStreakLabel=F72585"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JenisaRose&hide_border=true&background=0D1117&ring=B5179E&fire=F97316&currStreakLabel=F72585"/>
 
 </div>
 
