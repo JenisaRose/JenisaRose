@@ -260,18 +260,6 @@ Outside of code, I'm into <!-- add your interests here -->.
 
 <br/>
 
-## ⚡ Tech Stack
-
-<!-- EDIT: add/remove icon names freely. Full icon list & names: https://skillicons.dev -->
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark" />
-
-</div>
-
-<br/>
 
 ## 🚀 Featured Projects
 
