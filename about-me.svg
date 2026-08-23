@@ -1,67 +1,56 @@
-<svg width="950" height="380" viewBox="0 0 950 380" xmlns="http://www.w3.org/2000/svg">
+<svg width="950" height="350" viewBox="0 0 950 350" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <!-- Main background -->
-    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#24102F"></stop>
-      <stop offset="50%" stop-color="#35134F"></stop>
-      <stop offset="100%" stop-color="#1D1028"></stop>
-    </linearGradient>
-
-    <!-- Pink → Purple → Orange accent -->
     <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#F72585"></stop>
-      <stop offset="50%" stop-color="#B5179E"></stop>
+      <stop offset="55%" stop-color="#B5179E"></stop>
       <stop offset="100%" stop-color="#F97316"></stop>
     </linearGradient>
   </defs>
 
-  <!-- Main box -->
-  <rect x="3" y="3" width="944" height="374" rx="14" fill="url(#background)" stroke="#B5179E" stroke-width="2"></rect>
-
-  <!-- Top gradient accent -->
-  <rect x="3" y="3" width="944" height="6" rx="3" fill="url(#accent)"></rect>
+  <!-- Minimal dark background -->
+  <rect x="2" y="2" width="946" height="346" rx="12" fill="#111318" stroke="url(#accent)" stroke-width="2"></rect>
 
   <!-- name -->
-  <text x="35" y="48" fill="#F72585" font-family="monospace" font-size="18" font-weight="bold">name:</text>
+  <text x="35" y="45" fill="#B5179E" font-family="monospace" font-size="17" font-weight="bold">name:</text>
 
-  <text x="145" y="48" fill="#FFFFFF" font-family="monospace" font-size="18">Rohini Pal</text>
+  <text x="145" y="45" fill="#F2F2F2" font-family="monospace" font-size="17">Rohini Pal</text>
 
   <!-- role -->
-  <text x="35" y="80" fill="#F72585" font-family="monospace" font-size="18" font-weight="bold">role:</text>
+  <text x="35" y="76" fill="#B5179E" font-family="monospace" font-size="17" font-weight="bold">role:</text>
 
-  <text x="145" y="80" fill="#FFFFFF" font-family="monospace" font-size="18">B.Tech CSE Undergraduate</text>
+  <text x="145" y="76" fill="#F2F2F2" font-family="monospace" font-size="17">B.Tech CSE Undergraduate</text>
 
   <!-- university -->
-  <text x="35" y="112" fill="#F72585" font-family="monospace" font-size="18" font-weight="bold">university:</text>
+  <text x="35" y="107" fill="#B5179E" font-family="monospace" font-size="17" font-weight="bold">university:</text>
 
-  <text x="175" y="112" fill="#FFFFFF" font-family="monospace" font-size="18">SRM Institute of Science and Technology, KTR</text>
+  <text x="175" y="107" fill="#F2F2F2" font-family="monospace" font-size="17">SRM Institute of Science and Technology, KTR</text>
 
   <!-- location -->
-  <text x="35" y="144" fill="#F72585" font-family="monospace" font-size="18" font-weight="bold">location:</text>
+  <text x="35" y="138" fill="#B5179E" font-family="monospace" font-size="17" font-weight="bold">location:</text>
 
-  <text x="160" y="144" fill="#FFFFFF" font-family="monospace" font-size="18">Chennai, India</text>
+  <text x="160" y="138" fill="#F2F2F2" font-family="monospace" font-size="17">Chennai, India</text>
 
   <!-- currently building -->
-  <text x="35" y="176" fill="#F72585" font-family="monospace" font-size="18" font-weight="bold">currently_building:</text>
+  <text x="35" y="169" fill="#B5179E" font-family="monospace" font-size="17" font-weight="bold">currently_building:</text>
 
-  <text x="55" y="207" fill="#BDB2FF" font-family="monospace" font-size="17"># - add your project name here</text>
+  <text x="55" y="199" fill="#8F94A3" font-family="monospace" font-size="16"># - add your project name here</text>
 
-  <text x="55" y="234" fill="#BDB2FF" font-family="monospace" font-size="17"># - add another project here</text>
+  <text x="55" y="224" fill="#8F94A3" font-family="monospace" font-size="16"># - add another project here</text>
 
   <!-- looking for -->
-  <text x="35" y="268" fill="#F72585" font-family="monospace" font-size="18" font-weight="bold">looking_for:</text>
+  <text x="35" y="255" fill="#B5179E" font-family="monospace" font-size="17" font-weight="bold">looking_for:</text>
 
-  <text x="180" y="268" fill="#FFFFFF" font-family="monospace" font-size="18">"Software Engineering / Full-Stack Internship"</text>
+  <text x="180" y="255" fill="#F2F2F2" font-family="monospace" font-size="17">"Software Engineering / Full-Stack Internship"</text>
 
   <!-- philosophy -->
-  <text x="35" y="301" fill="#F97316" font-family="monospace" font-size="18" font-weight="bold">philosophy:</text>
+  <text x="35" y="286" fill="#F97316" font-family="monospace" font-size="17" font-weight="bold">philosophy:</text>
 
-  <text x="55" y="329" fill="#FFFFFF" font-family="monospace" font-size="16">
+  <text x="55" y="312" fill="#D8D8DC" font-family="monospace" font-size="15">
     I believe the best way to learn technology is to build with it,
   </text>
 
-  <text x="55" y="353" fill="#FFFFFF" font-family="monospace" font-size="16">
+  <text x="55" y="334" fill="#D8D8DC" font-family="monospace" font-size="15">
     break things, understand why they broke, and build better the next time.
   </text>
 
