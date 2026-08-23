@@ -24,18 +24,36 @@
 
 ## ⚡ About Me
 
-<!-- EDIT freely: add/remove/rewrite any line. This uses GitHub's native [!IMPORTANT] alert block, which renders with a purple-tinted border and icon automatically — no custom CSS needed (GitHub strips custom styling from README HTML, so this is the closest thing to a genuinely colored box that GitHub actually supports) -->
-> [!IMPORTANT]
-> **Rohini Pal** — B.Tech CSE Undergraduate
->
-> 🏫 SRM Institute of Science and Technology, KTR
-> 📍 Chennai, India
-> 🎯 Looking for: Software Engineering / Full-Stack Internship
-> <!-- 🛠️ Currently building: add your project here -->
->
-> *I believe the best way to learn technology is to build with it, break things, understand why they broke, and build better the next time.*
+<div align="center">
 
-**Focusing on:** Full-Stack Development · Backend Engineering · Data Structures & Algorithms · Databases · AI & Emerging Technologies
+<table>
+<tr>
+<td align="left" bgcolor="#2D0A4E">
+
+<b>Rohini Pal</b> — B.Tech CSE Undergraduate
+
+<br/><br/>
+
+🏫 SRM Institute of Science and Technology, KTR  
+📍 Chennai, India  
+🎯 Looking for: Software Engineering / Full-Stack Internship
+
+<br/><br/>
+
+<i>
+I believe the best way to learn technology is to build with it,
+break things, understand why they broke, and build better the next time.
+</i>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<b>Focusing on:</b> Full-Stack Development · Backend Engineering · Data Structures & Algorithms · Databases · AI & Emerging Technologies
 
 <br/>
 
