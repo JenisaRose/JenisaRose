@@ -109,6 +109,9 @@ A centralized dashboard that helps teams manage product information, track key m
 
 <!-- EDIT: add/remove table rows for each module or feature of the project -->
 
+Email: admin@arodek.com 
+Password: Admin@123
+
 🌐 Live Demo: [product-dashboard-gamma-azure.vercel.app](https://product-dashboard-gamma-azure.vercel.app/login)
 
 🔗 Repo: [JenisaRose/Product-Dashboard](https://github.com/JenisaRose/Product-Dashboard)
