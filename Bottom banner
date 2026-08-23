@@ -1,0 +1,219 @@
+<svg width="100%" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGlow2" cx="50%" cy="60%" r="90%">
+      <stop offset="0%" stop-color="#2d0a4e"/>
+      <stop offset="55%" stop-color="#15012b"/>
+      <stop offset="100%" stop-color="#07000f"/>
+    </radialGradient>
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#560BAD"/>
+      <stop offset="50%" stop-color="#B5179E"/>
+      <stop offset="100%" stop-color="#F72585"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="120" fill="url(#bgGlow2)"/>
+
+  <g transform="translate(904.2,102.4) scale(1.54)" opacity="0.77">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ff8fd6">
+      <animate attributeName="opacity" values="0.11549999999999999;0.77;0.11549999999999999" dur="3.34s" begin="2.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(1077.4,58.6) scale(0.73)" opacity="0.51">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ff8fd6">
+      <animate attributeName="opacity" values="0.0765;0.51;0.0765" dur="2.34s" begin="2.04s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(485.2,19.8) scale(0.96)" opacity="0.99">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ffd6f7">
+      <animate attributeName="opacity" values="0.1485;0.99;0.1485" dur="2.84s" begin="2.72s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(710.3,79.6) scale(0.5)" opacity="0.57">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ff8fd6">
+      <animate attributeName="opacity" values="0.08549999999999999;0.57;0.08549999999999999" dur="2.65s" begin="0.15s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(454.9,25.4) scale(0.79)" opacity="0.64">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ff8fd6">
+      <animate attributeName="opacity" values="0.096;0.64;0.096" dur="3.88s" begin="1.26s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(1001.9,56.4) scale(1.3)" opacity="1.0">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ffffff">
+      <animate attributeName="opacity" values="0.15;1.0;0.15" dur="2.37s" begin="1.95s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(937.5,78.2) scale(1.31)" opacity="0.6">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ffd6f7">
+      <animate attributeName="opacity" values="0.09;0.6;0.09" dur="1.55s" begin="0.46s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(151.5,80.3) scale(1.08)" opacity="0.73">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ffd6f7">
+      <animate attributeName="opacity" values="0.1095;0.73;0.1095" dur="2.14s" begin="1.11s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(727.1,115.6) scale(1.26)" opacity="0.98">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ffd6f7">
+      <animate attributeName="opacity" values="0.147;0.98;0.147" dur="1.77s" begin="0.08s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(374.3,81.3) scale(1.55)" opacity="0.97">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ff8fd6">
+      <animate attributeName="opacity" values="0.1455;0.97;0.1455" dur="2.0s" begin="1.78s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(996.7,29.1) scale(1.24)" opacity="0.93">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#e6ccff">
+      <animate attributeName="opacity" values="0.1395;0.93;0.1395" dur="3.0s" begin="0.36s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(1180.6,93.9) scale(0.82)" opacity="0.83">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ff8fd6">
+      <animate attributeName="opacity" values="0.12449999999999999;0.83;0.12449999999999999" dur="1.67s" begin="1.94s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(15.2,50.4) scale(0.99)" opacity="0.98">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ff8fd6">
+      <animate attributeName="opacity" values="0.147;0.98;0.147" dur="3.09s" begin="2.49s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(848.8,52.3) scale(1.28)" opacity="0.81">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#e6ccff">
+      <animate attributeName="opacity" values="0.1215;0.81;0.1215" dur="3.8s" begin="2.32s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(557.8,99.1) scale(1.11)" opacity="0.93">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#e6ccff">
+      <animate attributeName="opacity" values="0.1395;0.93;0.1395" dur="3.58s" begin="0.26s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(1058.0,29.3) scale(0.96)" opacity="0.83">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#c9a8ff">
+      <animate attributeName="opacity" values="0.12449999999999999;0.83;0.12449999999999999" dur="2.34s" begin="1.48s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(390.0,58.5) scale(0.83)" opacity="0.67">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#e6ccff">
+      <animate attributeName="opacity" values="0.1005;0.67;0.1005" dur="3.7s" begin="2.1s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(331.5,1.2) scale(1.54)" opacity="0.62">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ffffff">
+      <animate attributeName="opacity" values="0.093;0.62;0.093" dur="2.52s" begin="1.67s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(288.4,57.1) scale(1.25)" opacity="0.9">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ff8fd6">
+      <animate attributeName="opacity" values="0.135;0.9;0.135" dur="1.73s" begin="0.66s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(830.1,36.7) scale(1.1)" opacity="0.78">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ff8fd6">
+      <animate attributeName="opacity" values="0.11699999999999999;0.78;0.11699999999999999" dur="2.36s" begin="2.99s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(660.5,42.2) scale(0.94)" opacity="0.63">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#e6ccff">
+      <animate attributeName="opacity" values="0.0945;0.63;0.0945" dur="1.8s" begin="0.58s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(143.5,64.3) scale(1.31)" opacity="0.6">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ffd6f7">
+      <animate attributeName="opacity" values="0.09;0.6;0.09" dur="3.35s" begin="0.83s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(707.5,91.2) scale(1.12)" opacity="0.92">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ffffff">
+      <animate attributeName="opacity" values="0.138;0.92;0.138" dur="2.24s" begin="1.08s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(362.7,85.0) scale(0.55)" opacity="0.99">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ffffff">
+      <animate attributeName="opacity" values="0.1485;0.99;0.1485" dur="2.88s" begin="2.09s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(151.5,104.2) scale(0.99)" opacity="0.79">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ffffff">
+      <animate attributeName="opacity" values="0.1185;0.79;0.1185" dur="2.67s" begin="1.32s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(221.2,6.2) scale(1.53)" opacity="0.56">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ff8fd6">
+      <animate attributeName="opacity" values="0.084;0.56;0.084" dur="1.66s" begin="1.48s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(692.4,82.4) scale(0.58)" opacity="0.97">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#c9a8ff">
+      <animate attributeName="opacity" values="0.1455;0.97;0.1455" dur="1.71s" begin="0.74s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(669.7,49.9) scale(1.12)" opacity="0.61">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#c9a8ff">
+      <animate attributeName="opacity" values="0.0915;0.61;0.0915" dur="2.81s" begin="1.35s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(531.3,103.2) scale(1.59)" opacity="0.78">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#e6ccff">
+      <animate attributeName="opacity" values="0.11699999999999999;0.78;0.11699999999999999" dur="1.65s" begin="2.88s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(119.1,91.5) scale(1.15)" opacity="0.83">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#e6ccff">
+      <animate attributeName="opacity" values="0.12449999999999999;0.83;0.12449999999999999" dur="1.89s" begin="0.52s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(90.1,0.3) scale(0.94)" opacity="0.73">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#c9a8ff">
+      <animate attributeName="opacity" values="0.1095;0.73;0.1095" dur="1.58s" begin="0.86s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(339.3,103.2) scale(0.49)" opacity="0.96">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ffd6f7">
+      <animate attributeName="opacity" values="0.144;0.96;0.144" dur="3.47s" begin="1.88s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(793.4,112.0) scale(0.91)" opacity="0.61">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#c9a8ff">
+      <animate attributeName="opacity" values="0.0915;0.61;0.0915" dur="1.87s" begin="0.8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(170.7,7.2) scale(1.35)" opacity="0.87">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#c9a8ff">
+      <animate attributeName="opacity" values="0.1305;0.87;0.1305" dur="2.92s" begin="0.87s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(149.2,82.6) scale(1.24)" opacity="0.75">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#e6ccff">
+      <animate attributeName="opacity" values="0.11249999999999999;0.75;0.11249999999999999" dur="2.73s" begin="0.24s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(47.8,51.8) scale(0.79)" opacity="0.51">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#e6ccff">
+      <animate attributeName="opacity" values="0.0765;0.51;0.0765" dur="2.07s" begin="2.02s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(1032.6,70.5) scale(0.42)" opacity="0.79">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#e6ccff">
+      <animate attributeName="opacity" values="0.1185;0.79;0.1185" dur="3.41s" begin="0.53s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(622.8,53.1) scale(0.73)" opacity="0.72">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#c9a8ff">
+      <animate attributeName="opacity" values="0.108;0.72;0.108" dur="3.54s" begin="2.91s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(564.0,49.0) scale(0.79)" opacity="0.93">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#ffffff">
+      <animate attributeName="opacity" values="0.1395;0.93;0.1395" dur="2.32s" begin="2.08s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(345.9,113.4) scale(1.38)" opacity="0.52">
+    <path d="M0,-5 C1,-1 1,-1 5,0 C1,1 1,1 0,5 C-1,1 -1,1 -5,0 C-1,-1 -1,-1 0,-5 Z" fill="#c9a8ff">
+      <animate attributeName="opacity" values="0.078;0.52;0.078" dur="1.72s" begin="0.76s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <path d="M0,66.0 C 300.0,18.0 900.0,114.0 1200,54.0 L1200,120 L0,120 Z" fill="url(#waveGrad2)" opacity="0.9"/>
+</svg>
