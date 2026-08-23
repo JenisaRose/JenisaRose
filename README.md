@@ -107,8 +107,9 @@ A centralized dashboard that helps teams manage product information, track key m
 | 📊 Dashboard & Insights | 📦 Product Management | 🔍 Search & Filtering |
 | 🗂️ Data Organization | 📈 Analytics & Tracking | 📱 Responsive UI |
 
-<!-- EDIT: add/remove table rows for each module or feature of the project -->
+<!-- EDIT: add/remove table rows for each module or feature of the project --> 
 
+For access to the Product Dashboard- 
 Email: admin@arodek.com 
 Password: Admin@123
 
