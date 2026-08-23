@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="./about-me.svg" width="100%" alt="About Me"/>
+<img src="./about-me.svg" width="100%" alt="Rohini Pal - About Me"/>
 
 </div>
 
