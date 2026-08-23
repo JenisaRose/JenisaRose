@@ -26,21 +26,21 @@
 
 <table>
 <tr>
-<td bgcolor="#2B123D">
+<td bgcolor="#35134F">
 
-<pre>
-name: Rohini Pal
-role: B.Tech CSE Undergraduate
-university: SRM Institute of Science and Technology, KTR
-location: Chennai, India
-currently_building:
-  # - add your project name here
-  # - add another project here
-looking_for: "Software Engineering / Full-Stack Internship"
-philosophy: >
-  I believe the best way to learn technology is to build with it,
-  break things, understand why they broke, and build better the next time.
-</pre>
+<code>
+name: Rohini Pal<br>
+role: B.Tech CSE Undergraduate<br>
+university: SRM Institute of Science and Technology, KTR<br>
+location: Chennai, India<br>
+currently_building:<br>
+&nbsp;&nbsp;# - add your project name here<br>
+&nbsp;&nbsp;# - add another project here<br>
+looking_for: "Software Engineering / Full-Stack Internship"<br>
+philosophy: &gt;<br>
+&nbsp;&nbsp;I believe the best way to learn technology is to build with it,<br>
+&nbsp;&nbsp;break things, understand why they broke, and build better the next time.
+</code>
 
 </td>
 </tr>
