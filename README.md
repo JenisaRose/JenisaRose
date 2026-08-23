@@ -34,7 +34,7 @@
 
 <b>Focusing on:</b> Full-Stack Development · Backend Engineering · Data Structures & Algorithms · Databases · AI & Emerging Technologies
 
-<br/> 
+<br/>
 
 ## 🛠️ Tech Stack
 
