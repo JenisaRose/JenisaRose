@@ -1,8 +1,7 @@
-
 <div align="center">
 
-<!-- Banner — pink/purple gradient wave. Sparkle emojis frame the tagline for a bit of interactive shimmer without breaking on GitHub's stripped-down HTML/CSS rendering -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:B5179E,100:560BAD&height=220&section=header&text=Rohini%20Pal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%E2%80%A2%20Fullstack%20Enthusiast%20%E2%80%A2%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
+<!-- Banner — pink/purple gradient wave with a twinkling sparkle animation on the text -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:B5179E,100:560BAD&height=220&section=header&text=%E2%9C%A8%20Rohini%20Pal%20%E2%9C%A8&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9D%82%20CS%20Undergrad%20%E2%80%A2%20Fullstack%20Enthusiast%20%E2%80%A2%20Lifelong%20Learner%20%E2%9D%82&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B5179E&center=true&vCenter=true&width=650&lines=%E2%9C%A8+B.Tech+CSE+%40+SRM+Institute+of+Science+%26+Technology+%E2%9C%A8;%F0%9F%92%BB+MERN+Stack+Developer;%F0%9F%A7%A0+Sharpening+DSA+for+Placements;%F0%9F%9A%80+Open+to+SWE+Internships" alt="Typing SVG" />
@@ -25,8 +24,8 @@
 
 ## ⚡ About Me
 
-<!-- EDIT freely: add/remove any line, this is just a starting point -->
-```yaml
+<!-- EDIT freely: add/remove any line, this is just a starting point. No language tag on the code block so it stays neutral grey/white instead of the default blue/green syntax highlighting -->
+```
 name: Rohini Pal
 role: B.Tech CSE Undergraduate
 university: SRM Institute of Science and Technology, KTR
@@ -36,10 +35,10 @@ currently_building:
   # - add another project here
 looking_for: "Software Engineering / Full-Stack Internship"
 philosophy: >
-I believe the best way to learn technology is to build with it, break things, understand why they broke, and build better the next time. 
+I believe the best way to learn technology is to build with it, break things, understand why they broke, and build better the next time.
 ```
 
-**Focusing on:** Full-Stack Development · Backend Engineering · Data Structures & Algorithms · Databases · AI & Emerging Technologies 
+**Focusing on:** Full-Stack Development · Backend Engineering · Data Structures & Algorithms · Databases · AI & Emerging Technologies
 
 <br/>
 
@@ -96,30 +95,30 @@ I believe the best way to learn technology is to build with it, break things, un
 
 <div align="center">
 
-### 📊 Product Dashboard 
+### 📊 Product Dashboard
 
-A modern dashboard for managing products, data, and business insights. 
+A modern dashboard for managing products, data, and business insights.
 
-A centralized dashboard that helps teams manage product information, track key metrics, and monitor operations in one place. It reduces manual data handling and makes product-related insights easier to access and act on 
+A centralized dashboard that helps teams manage product information, track key metrics, and monitor operations in one place. It reduces manual data handling and makes product-related insights easier to access and act on.
 
 <img src="https://img.shields.io/badge/React-560BAD?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-F72585?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-B5179E?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-7209B7?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-</div>
+<br/><br/>
 
 | Feature | Feature | Feature |
-|---|---|---|
-| 📊 Dashboard & Insights| 📦 Product Management | 🔍 Search & Filtering |
-| 🗂️ Data Organization | 📈 Analytics & Tracking | 📱 Responsive UI|
+|:---:|:---:|:---:|
+| 📊 Dashboard & Insights | 📦 Product Management | 🔍 Search & Filtering |
+| 🗂️ Data Organization | 📈 Analytics & Tracking | 📱 Responsive UI |
+
 <!-- EDIT: add/remove table rows for each module or feature of the project -->
 
-<div align="center">
+🌐 Live Demo: [product-dashboard-gamma-azure.vercel.app](https://product-dashboard-gamma-azure.vercel.app/login)
 
-🌐 Live Demo: https://product-dashboard-gamma-azure.vercel.app/login
+🔗 Repo: [JenisaRose/Product-Dashboard](https://github.com/JenisaRose/Product-Dashboard)
 
-🔗 Repo link: https://github.com/JenisaRose/Product-Dashboard
 </div>
 
 <br/>
@@ -177,7 +176,7 @@ Actively building interview-readiness through consistent, structured practice �
 
 </div>
 
-🔗 [My LeetCode Profile →]https://leetcode.com/u/HvVNU87CZ0/
+🔗 [My LeetCode Profile →](https://leetcode.com/u/HvVNU87CZ0/)
 
 > Small daily reps beat last-minute cramming.
 
@@ -186,9 +185,9 @@ Actively building interview-readiness through consistent, structured practice �
 ## 📜 Certifications
 
 <!-- EDIT: add/remove your own certifications, one bullet each -->
-- 🏅 	Coursera – Data Structures and Algorithms Specialization (UC San Diego): Ongoing specialization covering core DSA concepts and problem-solving in Python.
-- 🏅  UpGrad – Generative AI Foundations (Microsoft): Foundation-level training in generative AI concepts and applications.
-- 🏅  Coursera – Generative AI and LLMs: Architecture & Data Prep (IBM): Training in LLM architecture and data preparation fundamentals.
+- 🏅 Coursera – Data Structures and Algorithms Specialization (UC San Diego): Ongoing specialization covering core DSA concepts and problem-solving in Python.
+- 🏅 UpGrad – Generative AI Foundations (Microsoft): Foundation-level training in generative AI concepts and applications.
+- 🏅 Coursera – Generative AI and LLMs: Architecture & Data Prep (IBM): Training in LLM architecture and data preparation fundamentals.
 
 <br/>
 
@@ -219,12 +218,12 @@ Actively building interview-readiness through consistent, structured practice �
 ## 🌸 Life Beyond Code
 
 <!-- EDIT: swap this out for whatever's true for you — hobbies, sport, volunteering, music, whatever you want people to know -->
-Outside of code, I'm into 
-🎸 Music · Guitar
-🎮 Gaming · Anime
-👗 Fashion · College Fashion Club
-🏆 Competitions · Team Events
-✈️ Travel · Exploration
+Outside of code, I'm into:
+- 🎸 Music · Guitar
+- 🎮 Gaming · Anime
+- 👗 Fashion · College Fashion Club
+- 🏆 Competitions · Team Events
+- ✈️ Travel · Exploration
 
 > <!-- add a short personal line or quote here -->
 
@@ -235,19 +234,18 @@ Outside of code, I'm into
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-B5179E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohini-pal-37b8a2242/)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F97316?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HvVNU87CZ0/)
-
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-F72585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohini.pal009@gmail.com)
-
 [![Resume](https://img.shields.io/badge/Resume-Download-7209B7?style=for-the-badge&logo=googledocs&logoColor=white)](YOUR_RESUME_LINK)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-560BAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JenisaRose)
 
-<br>
+</div>
+
+<br/>
 
 <div align="center">
 <i>✨ Build. Break. Learn. Ship. Repeat. ✨</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:560BAD,50:B5179E,100:F72585&height=100&section=footer" width="100%"/>
+<!-- Footer banner — same gradient, twinkling animation for sparkle -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:560BAD,50:B5179E,100:F72585&height=100&section=footer&animation=twinkling" width="100%"/>
