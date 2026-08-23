@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <!-- Custom starfield banner — a real twinkling star background (SMIL animation inside the SVG), not just an emoji. This is a local file: banner-top.svg must sit in the same repo as your README, in the same folder, for the relative path below to work. -->
 <img src="./banner-top.svg" width="100%"/>
