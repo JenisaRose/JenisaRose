@@ -24,34 +24,27 @@
 
 ## ⚡ About Me
 
-<div align="center">
-
 <table>
 <tr>
-<td align="left" bgcolor="#2D0A4E">
+<td bgcolor="#2B123D">
 
-<b>Rohini Pal</b> — B.Tech CSE Undergraduate
-
-<br/><br/>
-
-🏫 SRM Institute of Science and Technology, KTR  
-📍 Chennai, India  
-🎯 Looking for: Software Engineering / Full-Stack Internship
-
-<br/><br/>
-
-<i>
-I believe the best way to learn technology is to build with it,
-break things, understand why they broke, and build better the next time.
-</i>
+<pre>
+name: Rohini Pal
+role: B.Tech CSE Undergraduate
+university: SRM Institute of Science and Technology, KTR
+location: Chennai, India
+currently_building:
+  # - add your project name here
+  # - add another project here
+looking_for: "Software Engineering / Full-Stack Internship"
+philosophy: >
+  I believe the best way to learn technology is to build with it,
+  break things, understand why they broke, and build better the next time.
+</pre>
 
 </td>
 </tr>
 </table>
-
-</div>
-
-<br/>
 
 <b>Focusing on:</b> Full-Stack Development · Backend Engineering · Data Structures & Algorithms · Databases · AI & Emerging Technologies
 
