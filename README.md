@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner — pink/purple gradient wave with a twinkling sparkle animation on the text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:B5179E,100:560BAD&height=220&section=header&text=%E2%9C%A8%20Rohini%20Pal%20%E2%9C%A8&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9D%82%20CS%20Undergrad%20%E2%80%A2%20Fullstack%20Enthusiast%20%E2%80%A2%20Lifelong%20Learner%20%E2%9D%82&descAlignY=55&descSize=18" width="100%"/>
+<!-- Custom starfield banner — a real twinkling star background (SMIL animation inside the SVG), not just an emoji. This is a local file: banner-top.svg must sit in the same repo as your README, in the same folder, for the relative path below to work. -->
+<img src="./banner-top.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B5179E&center=true&vCenter=true&width=650&lines=%E2%9C%A8+B.Tech+CSE+%40+SRM+Institute+of+Science+%26+Technology+%E2%9C%A8;%F0%9F%92%BB+MERN+Stack+Developer;%F0%9F%A7%A0+Sharpening+DSA+for+Placements;%F0%9F%9A%80+Open+to+SWE+Internships" alt="Typing SVG" />
@@ -24,19 +24,16 @@
 
 ## ⚡ About Me
 
-<!-- EDIT freely: add/remove any line, this is just a starting point. No language tag on the code block so it stays neutral grey/white instead of the default blue/green syntax highlighting -->
-```
-name: Rohini Pal
-role: B.Tech CSE Undergraduate
-university: SRM Institute of Science and Technology, KTR
-location: Chennai, India
-currently_building:
-  # - add your project name here
-  # - add another project here
-looking_for: "Software Engineering / Full-Stack Internship"
-philosophy: >
-I believe the best way to learn technology is to build with it, break things, understand why they broke, and build better the next time.
-```
+<!-- EDIT freely: add/remove/rewrite any line. This uses GitHub's native [!IMPORTANT] alert block, which renders with a purple-tinted border and icon automatically — no custom CSS needed (GitHub strips custom styling from README HTML, so this is the closest thing to a genuinely colored box that GitHub actually supports) -->
+> [!IMPORTANT]
+> **Rohini Pal** — B.Tech CSE Undergraduate
+>
+> 🏫 SRM Institute of Science and Technology, KTR
+> 📍 Chennai, India
+> 🎯 Looking for: Software Engineering / Full-Stack Internship
+> <!-- 🛠️ Currently building: add your project here -->
+>
+> *I believe the best way to learn technology is to build with it, break things, understand why they broke, and build better the next time.*
 
 **Focusing on:** Full-Stack Development · Backend Engineering · Data Structures & Algorithms · Databases · AI & Emerging Technologies
 
@@ -247,5 +244,5 @@ Outside of code, I'm into:
 <i>✨ Build. Break. Learn. Ship. Repeat. ✨</i>
 </div>
 
-<!-- Footer banner — same gradient, twinkling animation for sparkle -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:560BAD,50:B5179E,100:F72585&height=100&section=footer&animation=twinkling" width="100%"/>
+<!-- Custom starfield footer banner — same twinkling-star treatment as the top -->
+<img src="./banner-bottom.svg" width="100%"/>
