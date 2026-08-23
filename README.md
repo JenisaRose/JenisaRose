@@ -24,27 +24,13 @@
 
 ## ⚡ About Me
 
-<table>
-<tr>
-<td bgcolor="#35134F">
+<div align="center">
 
-<code>
-name: Rohini Pal<br>
-role: B.Tech CSE Undergraduate<br>
-university: SRM Institute of Science and Technology, KTR<br>
-location: Chennai, India<br>
-currently_building:<br>
-&nbsp;&nbsp;# - add your project name here<br>
-&nbsp;&nbsp;# - add another project here<br>
-looking_for: "Software Engineering / Full-Stack Internship"<br>
-philosophy: &gt;<br>
-&nbsp;&nbsp;I believe the best way to learn technology is to build with it,<br>
-&nbsp;&nbsp;break things, understand why they broke, and build better the next time.
-</code>
+<img src="./about-me.svg" width="100%" alt="About Me"/>
 
-</td>
-</tr>
-</table>
+</div>
+
+<br/>
 
 <b>Focusing on:</b> Full-Stack Development · Backend Engineering · Data Structures & Algorithms · Databases · AI & Emerging Technologies
 
